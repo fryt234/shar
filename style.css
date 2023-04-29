@@ -25,7 +25,7 @@ body {
 }
 
 .fig {
-	/* background-image: url(https://imageup.ru/img224/4318905/img.jpg); */
+	background-image: url(img.png);
 	font-size: 0.9rem;
 	background-repeat: no-repeat;
 	text-align: center;
